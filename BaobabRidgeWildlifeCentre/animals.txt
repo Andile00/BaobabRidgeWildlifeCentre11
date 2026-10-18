@@ -1,0 +1,8 @@
+﻿WR-0001|Thabo|African Penguin|4|85|Release-Ready|Pre-Release Camp
+WR-0002|Naledi|Serval|3|62|Recovering|Outdoor Enclosure
+WR-0003|Zola|Cape Vulture|12|19|Critical|Intensive Care Unit
+WR-0004|Bongi|White Rhino|9|45|Stable|Recovery Ward
+WR-0005|Kito|Vervet Monkey|2|28|Serious|High-Dependency Ward
+WR-0006|Amara|African Wild Dog|6|80|Release-Ready|Pre-Release Camp
+WR-0007|Sipho|Pangolin|5|15|Critical|Intensive Care Unit
+WR-0008|Lerato|Cheetah|7|55|Stable|Recovery Ward
